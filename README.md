@@ -17,18 +17,31 @@ Group data by a specific column and perform operations on each group
 The script answers the following questions about the weather data:
 
 Q1) Find all the unique wind speed values
+
 Q2) Find the number of times the weather is exactly clear
+
 Q3) Find the number of times the wind speed was exactly 4km/h
+
 Q4) Find out all the Null Values in the data
+
 Q5) Rename the column 'Weather' to 'Weather Condition'
+
 Q6) What is the mean visibility?
+
 Q7) What is the standard deviation of pressure?
+
 Q8) What is the variance of relative humidity?
+
 Q9) Find all instances when snow was recorded
+
 Q10) Find instances when wind speed is above 24 and visibility is 25
+
 Q11) Calculate the mean value of each numeric column for each weather condition
+
 Q12) Find the minimum and maximum value of each column for each weather condition
+
 Q13) Show all records where the weather condition is fog
+
 Q14) Find instances when the weather is clear or visibility is above 40
 
 This is a beginner-friendly project showcasing basic techniques for data exploration and analysis using pandas.
